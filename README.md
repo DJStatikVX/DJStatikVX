@@ -1,10 +1,10 @@
-## 👋🏻 ¡Hola! Soy Samuel Rodríguez.
+## 👋🏻 ¡Hi! I'm Samuel Rodríguez.
 
-### 🧑🏻‍💻 Ingeniero de Software especializado en Mobile Development.
+### 🧑🏻‍💻 Software Engineer specialized in Mobile Development.
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+### 🚀 Tecnologies and Tools
 
 #### Frontend / Mobile
 - ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 ¡Conéctate conmigo!
+### 🌐 Let's connect!
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodr%C3%ADguez-ares/)
 - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DJStatikVX)
 - [![X](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/DJStatikVX)
@@ -43,7 +43,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJStatikVX&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
----
-
-¡No dudes en contactarme para colaboraciones o proyectos interesantes!
