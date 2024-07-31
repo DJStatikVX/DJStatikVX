@@ -9,7 +9,7 @@
 #### Frontend / Mobile
 - ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=coffeescript&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 - ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 - ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
