@@ -29,6 +29,13 @@
 
 ---
 
+### 🌐 ¡Conéctate conmigo!
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodr%C3%ADguez-ares/)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DJStatikVX)
+- [![X](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/DJStatikVX)
+
+---
+
 ### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/DJStatikVX">
@@ -36,13 +43,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DJStatikVX&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
----
-
-### 🌐 ¡Conéctate conmigo!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodr%C3%ADguez-ares/)
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DJStatikVX)
-- [![X](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/DJStatikVX)
 
 ---
 
