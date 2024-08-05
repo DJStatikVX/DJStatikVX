@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Tecnologies and Tools
+### 🚀 Technologies and Tools
 
 #### Frontend / Mobile
 - ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
