@@ -1,4 +1,4 @@
-## 👋🏻 ¡Hi! I'm Samuel Rodríguez.
+## 👋🏻 Hi! I'm Samuel Rodríguez.
 
 ### 🧑🏻‍💻 Software Engineer specialized in Mobile Development.
 
